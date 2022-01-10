@@ -3,7 +3,7 @@
 
 # Use [Zeet](https://zeet.co) --> Alternative of heroku.
 
-![Demo](https://raw.githubusercontent.com/developeranaz/Mega.nz-Rclone-Index-Heroku/main/.example_images/megaandindex.PNG)
+![Demo](https://raw.githubusercontent.com/362227/mega)
 
 #### Donate me BTC : 1J48LksQNiASuj48nwYATXdFzQSwdrnx7c
 ###### heroku-rclone-serve V3
@@ -13,7 +13,7 @@ This creates a backdoor for mega storage and serves publicly.
 
 [HEROKU RAPID DEPLOYMENT AVAILABLE](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega-Index-v3) without froking or github account.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/developeranaz/Mega-Index-v3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mega)
 
 ZEET RAPID DEPLOYMENT AVAILABLE 👇
 [![Deploy](https://deploy.zeet.co/Mega.nz-Rclone-Index-Heroku.svg)](https://deploy.zeet.co/?url=https://github.com/developeranaz/Mega-Index-v3)
